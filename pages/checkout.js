@@ -53,7 +53,7 @@ function checkout() {
                   id={id}
                 />
               )
-            ): <h2 className={styles.no}>No items in Basket</h2> }
+            ): <h2 className={styles.no}>No items in the Basket</h2> }
           </div>
         </div>
 
